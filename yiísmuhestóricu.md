@@ -8,7 +8,7 @@ El latín no tenía el sonido elle [ʎ]; ⟨ll⟩ (dos eles juntas) se leían co
 
 Desde entonces, los romances ibéricos han adquirido el sonido palatal lateral de la elle por medio de dos procesos sin solape en el tiempo (uno primero, después el otro).
 
-**Primeramente**, palatalizando las palabras latinas con LI/LE y con grupos de consonantes TL/CL/FL/PL. Este proceso se da en tempranamente todos los romances que yo conozco (ibéricos, galos, itálicos, diría que hasta en rumano).
+**Primeramente**, palatalizando las palabras latinas con LI/LE y con grupos de consonantes TL/CL/FL/PL. Este proceso se da tempranamente todos los romances que yo conozco (ibéricos, galos, itálicos, diría que hasta en rumano).
 
 - FILIU(M) > fiʎu *hijo*
 - FOLIA(M) > foʎa *hoja*
@@ -49,46 +49,41 @@ Y aquí, los que nos interesan, los dos que sufrieron yeísmo temprano
 
 El asturleonés hizo un solo cambio /ʎ/ > /y/, que se mantiene hasta hoy, mientras que el castellano evolucionó hacia la actual jota /x/ por los varios estadios del [reajuste de sibilantes del español](https://es.wikipedia.org/wiki/Reajuste_de_las_sibilantes_del_idioma_español) al final de la Edad Media.
 
-## ¿Por qué es importanti en la tupunimia cántabru?
-Porque la capa más antigua sigue las formas asturleonesas, no las castellanas. Por lo tanto, si se intenta aplicar la lógica castellana el resultado será etimologías toponímicas absurdas y  topónimos mal escritos. 
-Es interesante, además, localizar este tipo de formas sobre el mapa para trazar una isoglosa histórica.
+## ¿Por qué es emportanti en la tupunimia cántabru?
+Porque la capa más antigua parece seguir la evolución asturleonesa, no las castellana. Por lo tanto, si se intenta aplicar la lógica castellana el resultado será etimologías toponímicas absurdas y  topónimos mal escritos. 
+Sería interesante, además, localizar este tipo de formas sobre el mapa para trazar una isoglosa histórica.
 
 Voy a hablar del caso más obvio, el caso de los diminutivos.
 
-### La ḥusión di lus diminutivus latinus
+### El merger di lus diminutivus latinus
 El latín tiene dos terminaciones diminutivas que han sido muy productivas en nuestro ámbito:
 
-- -ICULU/A(M) > -ic'lu > -illu 
+1. -ICULU/A(M) > -ic'lu > -illu 
+ - Castellano -iʒo > -iʃo > -ixo (escrito -ijo, cobijo < cubiculu)
+ - Asturleonés -iyu > -íu (como en cubíu < cubiculu)
+2. ELLU/A(M) > -iellu/a > -illu/a, y porteriormente, > -íu/a (cuchíu < cuchillu < cultellu)
 
-Como veis, es de la primera primera tanda, y además queda en posición interior, así que regularmente sufre yeísmo histórico.
 
-	- Castellano -iʒo > -iʃo > -ixo (escrito -ijo, como cobijo)
-	- Asturleonés -iyu > -íu (como en cubíu < cubiculu)
+Como veis (1) es de la primera primera tanda, y además queda en posición interior, así que regularmente sufre yeísmo histórico. Y en el caso de (2), no es de la primera tanda y por otro proceso también se reduce. El resultado es que ambas terminaciones se han fusionado (tecnicismo *merger*)y se pronuncian igual. Es más, se han fusionado también con los participios y de 2ª y 3ª persona, todos son -íu/ía.
 
-- ELLU/A(M) > -iellu/a > -illu/a, y porteriormente, > -íu/a 
-
-Esta no es de la primera tanda, pero también se redujo. 
-
-Como podéis ver, hoy en día ambas terminaciones se han reducido y se pronuncian igual. Es más, se han fusionado con los participios y de 2ª y 3ª persona. 
-
-Cabe añadir que el pasiego redujo a cero fonético también la palatal alveolar, la ele [l], en la terminación -ílu/a “síu" (silo), pero es un proceso que no tiene vitalidad a día de hoy.
+Cabe añadir que el pasiego redujo a cero fonético también la palatal alveolar, la ele [l], en la terminación -ílu/a “síu" (silo), pero es un proceso que no tiene vitalidad a día de hoy hasta donde yo sé.
 
 ### Concretandu más exemplus
 
 #### Miría / Merija / Merilla. Tres maneras distintas: tradicional, antigua y uficial castellanizá.
 
-El oficial “Merilla”, en San Roqui di Rumiera, tiene como nombre en pasiegu “Miría”. Sin embargo, si vamos a las crónicas medievales, encontramos “Merija”. 
+El oficial “Merilla”, en San Roqui di Rumiera, tiene como nombre en pasiegu “Miría”. Sin embargo, si vamos a textos medievales, encontramos “Merija”. 
 
-La forma histórica se trata del Libro de la Montería, escrito en el siglo XIV en castellano medieval. En esta obra el resultado de -ELLU/A(M) es todavía -iello/a, por lo que los sufijos diminutivos no se habían fusionado como en la actualidad. Por tanto, cuando encontramos la forma “Merija”, asumimos que se trata de un resultado de -ICULA con yeísmo histórico a la castellana. 
+La forma medieval se trata del Libro de la Montería, escrito en el siglo XIV en castellano medieval. En esta obra el resultado de -ELLU/A(M) es todavía -iello/a, por lo que los sufijos diminutivos no se habían fusionado como en la actualidad. Por tanto, cuando encontramos la forma “Merija”, asumimos que se trata de un resultado de -ICULA con yeísmo histórico a la castellana. 
 
-Sin embargo, de ser atinada la forma castellana nos habría dado hoy una forma tradicional “Merija”, pero encontramos “Miría”. 
+Sin embargo, de ser atinada la forma castellana nos habría dado hoy una forma tradicional “Merija” y, sin embargo, encontramos “Miría”. 
 No conozco de la existencia de un cauce de evolución regular entre /ʒ,x/ y /∅/ (cero fonético), por lo que parece que el escriba castellano simplemente usó la letra -j- para representar lo que ya se pronunciaba como una -y-.
 
 La terminación -illa de la forma castellana moderna nada más se debería a una hipercorrección.
 
 #### La existencia de paris de dambas reicis
 
-Al sur de la bahía de Santander se encuentra la ría de Solía, como el brazo oeste de la ría de Astillero. También existe Solija como un bajel de la marisma de Santoña, en Argoños[^1].
+Al sur de la bahía de Santander se encuentra la ría de Solía, como el brazo oeste de la ría de Astillero. También existe Solija en marisma de Santoña, en Argoños[^1].
 
 En caso de que nos encontrásemos ante dos formas cognadas pero siguiendo los modelos evolutivos castellano y asturleonés, tendríamos que:
 
