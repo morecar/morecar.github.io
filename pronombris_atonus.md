@@ -530,7 +530,7 @@ Si haci oviu qui es necesariu generar una prupuesta qu’isté basá en la riali
   <tr>
    <td rowspan="2" ><strong>6</strong>
    </td>
-   <td>loS
+   <td>lOs
    </td>
    <td rowspan="2" >lis
    </td>
@@ -730,7 +730,7 @@ Estas reglas darían:
    </td>
    <td>A lus/las <br/> D lis
    </td>
-   <td>A los/las <br/> D lis
+   <td>A lus/las <br/> D lis
    </td>
   </tr>
   <tr>
